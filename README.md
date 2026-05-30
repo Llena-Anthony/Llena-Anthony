@@ -1,33 +1,80 @@
-#  Hello there, I'm Anthony Llena
+# Hello, I'm Anthony Llena
 
-I'm a Computer Science undergraduate from the Philippines, currently exploring backend development, web systems, and applied AI.
+Computer Science student graduating in July 2026.
 
----
+I'm currently building skills in Cloud Engineering, Networking, Cybersecurity, Linux, AWS, and Python Automation while leveraging my background in AI, NLP, and data science research.
 
-##  About Me
+## About Me
 
-I'm passionate about solving real-world problems with clean, maintainable code.  
-Most of my recent work involves Laravel-based applications, role-specific web logic, and experiments with fine-tuning AI models for smarter assistant systems.
+- Computer Science student at Saint Louis University
+- OJT completed at the Philippine Military Academy (PMA)
+- Co-author of research on Retrieval-Augmented Generation (RAG) and lightweight transformer models
+- Interested in Cloud Infrastructure, Networking, Cybersecurity, and Automation
+- Currently building hands-on AWS and Linux projects
 
-Currently, I'm focusing on:
-- Strengthening my Java fundamentals
-- Improving Laravel MVC workflows
-- Learning more about Retrieval-Augmented Generation (RAG) in NLP
+## Technical Skills
 
----
+### Cloud
+- AWS
+- EC2
+- S3
+- IAM
+- VPC
 
-## 🛠️ What I'm Working On
+### Operating Systems
+- Linux
+- Bash
 
--  A Laravel-based **PHS (Personal History Statement)** system for the Philippine Military Academy  
--  Fine-tuning **GPT-2** models for chatbot customization  
--  Designing secure, role-specific route systems in Laravel
+### Networking
+- TCP/IP
+- DNS
+- Routing
+- Network Fundamentals
 
----
+### Security
+- Cybersecurity Fundamentals
+- Information Security
+- Access Control
 
-## 📬 Let's Connect
+### Programming
+- Python
+- Java
+- SQL
+- Git
+- GitHub
 
-If you're working on something interesting, want to collaborate, or just want to connect — feel free to reach out:
+### Research & AI
+- NLP
+- RAG
+- Machine Learning
+- Data Analysis
 
--  Email: [llenanthony15@gmail.com](mailto:llenanthony15@gmail.com)  
--  GitHub: [Llena-Anthony](https://github.com/Llena-Anthony)  
--  LinkedIn: [Anthony Llena](https://www.linkedin.com/in/llena-anthony/)
+## Featured Projects
+
+### Fine-Tuning Lightweight Transformer-Based Models for Event Management SMEs
+Research publication involving NLP, RAG, lightweight transformers, and chatbot development.
+
+### Code-Switched Discourse Analysis
+Natural Language Processing research project focused on multilingual discourse analysis.
+
+### Medicine Clustering using K-Means
+Machine learning project applying unsupervised learning techniques to healthcare-related datasets.
+
+### Exit Survey System
+Software development project focused on survey collection and data management.
+
+## Current Learning Focus
+
+- Linux Fundamentals
+- AWS Cloud Practitioner Path
+- Networking Fundamentals
+- Python Automation
+- Cloud Security
+
+  ## Career Goal
+
+Computer Science Graduate
+→ Cloud Engineer
+→ Networking
+→ Cybersecurity
+→ Cloud Security Engineer / DevSecOps Engineer
