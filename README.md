@@ -65,13 +65,13 @@ Software development project focused on survey collection and data management.
 
 ## Current Learning Focus
 
-- Linux Fundamentals
+- Linux Fund1amentals
 - AWS Cloud Practitioner Path
 - Networking Fundamentals
 - Python Automation
 - Cloud Security
 
-  ## Career Goal
+## Career Goal
 
 Computer Science Graduate
 → Cloud Engineer
