@@ -18,12 +18,14 @@
 
 I am a Bachelor of Science in Computer Science graduate from Saint Louis University, building practical skills for a career in Cloud Engineering, DevOps, and Cybersecurity.
 
+> Open to junior Cloud, DevOps, Infrastructure, and Technical Operations opportunities.
+
 * 🎓 BS Computer Science graduate from Saint Louis University
 * 🏛️ Completed my internship at the Philippine Military Academy
 * ☁️ Building hands-on projects with AWS, Linux, Docker, and networking
 * 🐍 Learning Python for automation and infrastructure tasks
 * 🔐 Developing foundations in defensive security and cloud security
-* 🤖 Research background in NLP, RAG, machine learning, and data analysis
+* 🤖 Co-author of published research on NLP, lightweight transformer models, and Retrieval-Augmented Generation
 * 🎯 Working toward a Cloud Security or DevSecOps career
 
 ---
@@ -51,9 +53,10 @@ I am a Bachelor of Science in Computer Science graduate from Saint Louis Univers
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=flat-square)
 ![DNS](https://img.shields.io/badge/DNS-4285F4?style=flat-square)
+![Subnetting](https://img.shields.io/badge/Subnetting-6F42C1?style=flat-square)
 ![Routing](https://img.shields.io/badge/Routing-1BA0D7?style=flat-square)
 ![VLANs](https://img.shields.io/badge/VLANs-005073?style=flat-square)
-![IAM](https://img.shields.io/badge/Access%20Control-DD344C?style=flat-square)
+![Access Control](https://img.shields.io/badge/Access%20Control-DD344C?style=flat-square)
 ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-2EA043?style=flat-square)
 
 ### Programming and Automation
@@ -75,7 +78,7 @@ Designed and implemented a segmented AWS network using a VPC, public and private
 
 **Key areas:** secure network design, Linux administration, TCP connectivity, CloudWatch monitoring, SSH access, and systematic troubleshooting.
 
-[View Repository](https://github.com/YOUR_GITHUB_USERNAME/aws-secure-enterprise-network)
+[View Repository](https://github.com/Llena-Anthony/aws-secure-enterprise-network)
 
 ### 🐳 Dockerized Exit Survey System
 
@@ -83,21 +86,27 @@ A multi-service survey platform consisting of a Node.js student application, a P
 
 Docker Compose builds, runs, and connects the services through an isolated container network.
 
-[View Repository](https://github.com/YOUR_GITHUB_USERNAME/exit-survey-system-v2)
+[View Repository](https://github.com/Llena-Anthony/exit-survey-system-v2)
 
 ### 🖥️ EC2 Web Server Deployment
 
 Deployed an Apache web server on Amazon EC2 using automated user data, Linux service management, Security Groups, and SSH access.
 
-[View Repository](https://github.com/YOUR_GITHUB_USERNAME/aws-ec2-user-data-webserver)
+[View Repository](https://github.com/Llena-Anthony/aws-ec2-user-data-webserver)
 
 ### 🧠 AI-Driven Student Discourse Analysis
 
 Applied topic modeling and multidimensional sentiment analysis to multilingual student discourse using BERTopic, XLM-RoBERTa, and large language models.
 
-### 🤖 Lightweight Transformer Models for Event Management SMEs
+### 🤖 Fine-Tuning Lightweight Transformer Models for Event Management SMEs
 
-Research involving natural language processing, Retrieval-Augmented Generation, lightweight transformer models, and chatbot development.
+Co-authored research published in the **Journal of Global Business, Volume 14, Issue 3**.
+
+The study compared Flan-T5, BART, GPT-2, and Qwen 2.5-0.5B for resource-efficient SME applications. It also developed a Retrieval-Augmented Generation pipeline for a context-aware customer-service chatbot using a dataset of 57,879 examples collected from 44 publicly available SME websites and forums.
+
+**Key areas:** model fine-tuning, dataset generation and curation, lightweight transformers, model evaluation, quantization, RAG, and chatbot development.
+
+[Read the Published Paper](https://static1.squarespace.com/static/5b85162bcc8fedc767ff5676/t/692a9a8a1c753c57a56c6974/1764399754599/JGB+19338+.pdf)
 
 ---
 
@@ -108,22 +117,26 @@ Research involving natural language processing, Retrieval-Augmented Generation, 
 
 ---
 
-## Current Learning Focus
+## Currently Working On
+
+* Completing Python Essentials 1
+* Learning Python for infrastructure automation
+* Strengthening Docker and Docker Compose fundamentals
+* Practicing AWS and Linux troubleshooting
+* Building foundations in defensive security and cloud security
+* Preparing for junior Cloud and DevOps opportunities
+
+---
+
+## Current Learning Path
 
 ```text
-Python Automation  ──► Linux and Bash
-                              │
-AWS Architecture   ──► Docker and DevOps
-                              │
-Networking         ──► Cloud Security
+Python Automation ──► Linux and Bash
+                             │
+AWS Architecture  ──► Docker and DevOps
+                             │
+Networking        ──► Cloud Security
 ```
-
-* Python fundamentals and automation
-* AWS architecture and cloud services
-* Linux systems administration
-* Docker and containerized applications
-* Networking and infrastructure troubleshooting
-* Defensive cybersecurity and cloud security
 
 ---
 
@@ -131,15 +144,9 @@ Networking         ──► Cloud Security
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Anthony's GitHub statistics" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="Anthony's GitHub streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Anthony's most-used languages" />
+<img src="https://streak-stats.demolab.com?user=Llena-Anthony&theme=github-dark-blue&hide_border=true" alt="Anthony's GitHub contribution streak" />
 
 </div>
-
-> Language statistics reflect the code stored in my public repositories and do not represent my complete level of proficiency.
 
 ---
 
@@ -156,6 +163,16 @@ Cloud Security / DevSecOps Engineer
 ```
 
 My immediate objective is to strengthen my ability in Linux, networking, AWS, automation, containerization, and infrastructure troubleshooting. My long-term goal is to specialize in securing cloud platforms and automated delivery environments.
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Llena--Anthony-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Llena-Anthony)
+
+</div>
 
 ---
 
