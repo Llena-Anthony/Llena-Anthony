@@ -2,7 +2,9 @@
 
 # Hi, I'm Anthony Llena 👋
 
-### Computer Science Graduate | Aspiring Cloud & DevOps Engineer
+### Computer Science Graduate | Cloud & DevOps Engineer
+
+![Profile Views](https://komarev.com/ghpvc/?username=Llena-Anthony&color=2F81F7&style=flat-square&label=Profile+Views)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=21\&duration=3000\&pause=1000\&color=2F81F7\&center=true\&vCenter=true\&width=700\&lines=Building+secure+cloud+infrastructure;Learning+AWS%2C+Linux%2C+Docker%2C+and+Python;Exploring+Cloud+Security+and+DevSecOps)](https://git.io/typing-svg)
 
