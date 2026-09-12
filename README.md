@@ -142,19 +142,6 @@ Networking        ──► Cloud Security
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=Llena-Anthony&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-  alt="Anthony's GitHub Streak"
-/>
-
-</div>
-
----
-
 ## Career Direction
 
 ```text
