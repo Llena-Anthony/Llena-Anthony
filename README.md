@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Llena-Anthony&color=2F81F7&style=flat-square&label=Profile+Views)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=21\&duration=3000\&pause=1000\&color=2F81F7\&center=true\&vCenter=true\&width=700\&lines=Building+secure+cloud+infrastructure;Learning+AWS%2C+Linux%2C+Docker%2C+and+Python;Exploring+Cloud+Security+and+DevSecOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+secure+cloud+infrastructure;Learning+AWS%2C+Linux%2C+Docker%2C+and+Python;Exploring+Cloud+Security+and+DevSecOps)](https://git.io/typing-svg)
 
 ![Cloud Engineering](https://img.shields.io/badge/Focus-Cloud%20Engineering-2F81F7?style=for-the-badge)
 ![DevOps](https://img.shields.io/badge/Focus-DevOps-2496ED?style=for-the-badge)
@@ -36,20 +36,20 @@ I am a Bachelor of Science in Computer Science graduate from Saint Louis Univers
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,python,bash,git,github,mysql,java,js,vscode\&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,python,bash,git,github,mysql,java,js,vscode&perline=11)](https://skillicons.dev)
 
 </div>
 
 ### Cloud and Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square\&logo=amazonec2\&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square\&logo=amazons3\&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square\&logo=amazonwebservices\&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square\&logo=amazonwebservices\&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square\&logo=amazoncloudwatch\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonwebservices&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazonwebservices&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Networking and Security
 
@@ -63,12 +63,12 @@ I am a Bachelor of Science in Computer Science graduate from Saint Louis Univers
 
 ### Programming and Automation
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -146,8 +146,10 @@ Networking        ──► Cloud Security
 
 <div align="center">
 
-src="https://streak-stats.demolab.com?user=Llena-Anthony&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-alt="GitHub Streak"
+<img
+  src="https://streak-stats.demolab.com?user=Llena-Anthony&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+  alt="Anthony's GitHub Streak"
+/>
 
 </div>
 
@@ -173,7 +175,7 @@ My immediate objective is to strengthen my ability in Linux, networking, AWS, au
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Llena--Anthony-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Llena-Anthony)
+[![GitHub](https://img.shields.io/badge/GitHub-Llena--Anthony-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Llena-Anthony)
 
 </div>
 
